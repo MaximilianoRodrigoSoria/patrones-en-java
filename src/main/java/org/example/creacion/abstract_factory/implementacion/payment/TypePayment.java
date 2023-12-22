@@ -1,4 +1,4 @@
-package org.example.creacion.abstract_factory.payment;
+package org.example.creacion.abstract_factory.implementacion.payment;
 
 public enum TypePayment {
     GOOGLEPAY,

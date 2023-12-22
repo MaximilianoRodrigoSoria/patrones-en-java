@@ -1,9 +1,9 @@
-package org.example.creacion.abstract_factory;
+package org.example.creacion.abstract_factory.implementacion;
 
-import org.example.creacion.abstract_factory.card.Card;
-import org.example.creacion.abstract_factory.card.TypeCard;
-import org.example.creacion.abstract_factory.payment.Payment;
-import org.example.creacion.abstract_factory.payment.TypePayment;
+import org.example.creacion.abstract_factory.implementacion.card.Card;
+import org.example.creacion.abstract_factory.implementacion.card.TypeCard;
+import org.example.creacion.abstract_factory.implementacion.payment.Payment;
+import org.example.creacion.abstract_factory.implementacion.payment.TypePayment;
 
 public class Main {
 

@@ -1,6 +1,6 @@
-package org.example.creacion.abstract_factory.payment;
+package org.example.creacion.abstract_factory.implementacion.payment;
 
-import org.example.creacion.abstract_factory.AbstractFactory;
+import org.example.creacion.abstract_factory.implementacion.AbstractFactory;
 
 public class PaymentFactory implements AbstractFactory<Payment, TypePayment> {
 

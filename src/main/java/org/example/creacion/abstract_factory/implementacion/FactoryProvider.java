@@ -1,7 +1,7 @@
-package org.example.creacion.abstract_factory;
+package org.example.creacion.abstract_factory.implementacion;
 
-import org.example.creacion.abstract_factory.card.CardFactory;
-import org.example.creacion.abstract_factory.payment.PaymentFactory;
+import org.example.creacion.abstract_factory.implementacion.card.CardFactory;
+import org.example.creacion.abstract_factory.implementacion.payment.PaymentFactory;
 
 public class FactoryProvider {
 

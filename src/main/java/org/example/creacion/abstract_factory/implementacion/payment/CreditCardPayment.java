@@ -1,4 +1,4 @@
-package org.example.creacion.abstract_factory.payment;
+package org.example.creacion.abstract_factory.implementacion.payment;
 
 public class CreditCardPayment implements Payment {
     @Override

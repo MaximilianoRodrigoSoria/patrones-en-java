@@ -1,4 +1,4 @@
-package org.example.creacion.abstract_factory.card;
+package org.example.creacion.abstract_factory.implementacion.card;
 
 public class VisaCard implements Card {
 

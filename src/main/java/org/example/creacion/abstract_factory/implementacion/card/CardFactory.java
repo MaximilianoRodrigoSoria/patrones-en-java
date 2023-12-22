@@ -1,6 +1,6 @@
-package org.example.creacion.abstract_factory.card;
+package org.example.creacion.abstract_factory.implementacion.card;
 
-import org.example.creacion.abstract_factory.AbstractFactory;
+import org.example.creacion.abstract_factory.implementacion.AbstractFactory;
 
 public class CardFactory implements AbstractFactory<Card,TypeCard> {
     @Override
