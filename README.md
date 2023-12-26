@@ -66,7 +66,7 @@ Los patrones que aprenderás a lo largo de este curso son:
 
 Patrones Creacionales: Son los patrones de diseño que nos solucionan nuestros problemas a la hora de crear instancias.
 
-- Factory Method
+- [Factory Method](/src/main/java/org/example/creacion/factory/README.md)
 - Abstract Factory
 - Builder
 - Prototype
